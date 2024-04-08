@@ -1,6 +1,6 @@
 # Stress-tweet-detection
 
-Detect panic in tweet and recommand appropriate twitter handler for the user to provide help. 
+Detect panic in tweet and recommend appropriate twitter handler for the user to provide help. 
 
 Current approaches:
 Decision-tree classifer
